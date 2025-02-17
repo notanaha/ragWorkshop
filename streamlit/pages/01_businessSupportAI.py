@@ -157,7 +157,7 @@ tools = [
 
 def main():
 
-    query = st.text_input("Enter your question:", value="CIF検索結果の出力条件を教えて欲しい。")
+    query = st.text_input("Enter your question:", value="パーキングブレーキについて教えてください。")
 
     if st.button("Enter", key="confirm"):
         if query.lower() == "reset":

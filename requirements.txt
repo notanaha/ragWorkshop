@@ -9,3 +9,4 @@ openai
 azure-storage-blob
 langchain
 tiktoken
+streamlit
