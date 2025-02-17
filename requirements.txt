@@ -1,4 +1,3 @@
-streamlit
 python-dotenv
 azure-core
 azure-ai-documentintelligence
@@ -8,3 +7,5 @@ azure-search
 ipython
 openai
 azure-storage-blob
+langchain
+tiktoken
