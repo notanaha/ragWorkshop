@@ -10,3 +10,5 @@ azure-storage-blob
 langchain
 tiktoken
 streamlit
+ipykernel
+azure-ai-evaluation
