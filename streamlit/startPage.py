@@ -1,5 +1,5 @@
 ﻿from dotenv import load_dotenv
-load_dotenv()
+load_dotenv(".env")
 
 import streamlit as st
 from urllib.error import URLError
